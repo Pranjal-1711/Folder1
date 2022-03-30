@@ -1,1 +1,1 @@
-"Welcom to Github"
+"Welcome to github"
